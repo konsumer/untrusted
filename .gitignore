@@ -1,6 +1,1 @@
-*.swp
-deploy.sh
-mongoose*
 
-_site/*
-node_modules
